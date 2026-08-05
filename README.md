@@ -2,9 +2,9 @@
 Mobile application connecting farmers directly with customers with customers for selling raw agricultural products.
 
 ## Users
--Farmers
--Customer
--Admin
+- Farmers
+- Customer
+- Admin
 
 ## Technology
 -React Native
