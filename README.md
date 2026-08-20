@@ -1,5 +1,5 @@
 # 🌾 Farmer-To-Customer Marketplace
-
+by-Anshika, Chetna and Tulsee
 A mobile application that connects **farmers directly with customers**, enabling farmers to sell raw agricultural products without unnecessary intermediaries.
 
 ## 👥 Users
