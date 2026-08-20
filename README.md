@@ -43,3 +43,19 @@ The application will support:
 * Database design and ER diagram
 * Identify functional and non-functional requirements
 * Define major application modules
+
+## Day 2 - Database Design
+
+### Work Completed
+- Designed the initial database structure.
+- Identified the main database entities.
+- Created the `farmer_marketplace` MySQL database.
+- Designed tables for users, products, categories, orders, order items, and payments.
+- Defined relationships between the major entities.
+- Started designing the ER diagram.
+
+### Next Step
+- Complete the database schema.
+- Create relationships using foreign keys.
+- Insert sample data.
+- Connect the MySQL database with the Node.js backend.
